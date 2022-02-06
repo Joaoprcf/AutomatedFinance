@@ -1,0 +1,2 @@
+# AutomatedFinance
+Finance bot
